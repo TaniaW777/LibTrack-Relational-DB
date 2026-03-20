@@ -12,8 +12,9 @@
 
 | Role              | Name                  |
 | :---------------- | :-------------------- |
-| <kbd>Project Lead</kbd> | **ZABRE Tania**       |
-| Database Architect| **SAWADOGO Rachelle** |
+| <kbd>Project Lead</kbd> | **ZABRE Tania** |
+| Database Architect| **ZONGO Aïda**        |
+| Database Architect| **SAWADOGO Asseta**   |
 | Database Architect| **KINI Jacob**        |
 | Database Architect| **ILBOUDO Balkissa**  |
 | Database Architect| **YAMEOGO Cedric**    |
@@ -175,7 +176,7 @@ A comprehensive 5–10 minute video demonstration is available on YouTube, provi
 *   Live MySQL demo in phpMyAdmin.
 *   Walkthrough of at least 3 key queries, highlighting their functionality and results.
 
-> Link: *(add your YouTube link here)*
+> Link: *Will be updated sonn!*
 
 ---
 
