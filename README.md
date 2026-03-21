@@ -176,7 +176,7 @@ A comprehensive 5–10 minute video demonstration is available on YouTube, provi
 *   Live MySQL demo in phpMyAdmin.
 *   Walkthrough of at least 3 key queries, highlighting their functionality and results.
 
-> Link: *Will be updated sonn!*
+> Link: *https://youtu.be/Ud_e9wNkoHY*
 
 ---
 
